@@ -1,0 +1,9 @@
+To Do Tasks:
+	Project:
+	
+	Google-Maps:
+		When the user types an address in the search box:
+		Auto complete Search Box:
+        ☐ "react-google-maps"
+		☐ "react-geocode"
+		☐ "react-google-autocomplete"

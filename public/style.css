@@ -186,3 +186,7 @@ h1 {
 .error-item {
 	outline-color: tomato;
 }
+
+.autocomplete {
+	margin: 0 auto;
+}
